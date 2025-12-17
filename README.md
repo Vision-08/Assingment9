@@ -1,16 +1,70 @@
-# React + Vite
+# WarmPaws - Winter Pet Care Companion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WarmPaws is a cozy winter companion platform designed for pet owners. It allows users to explore winter care services, book appointments, and access expert tips to keep their furry friends safe and warm during the cold season.
 
-Currently, two official plugins are available:
+## 🔗 Live Link
+[Insert Your Live Link Here]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
+- **Winter-Themed UI**: A warm and inviting design with winter aesthetics.
+- **Service Browsing**: Explore various pet care services with details and pricing.
+- **Authentication**: Secure Login and Registration using Firebase (Email/Password & Google).
+- **Service Booking**: Mock booking functionality for logged-in users.
+- **User Profile**: Manage your profile and update information.
+- **Responsive Design**: Fully optimized for Mobile, Tablet, and Desktop.
+- **Extra Sections**: Winter Care Tips, Expert Vets, and Newsletter.
 
-## React Compiler
+## 🛠️ Technologies Used
+- **Frontend**: React, Vite
+- **Styling**: Tailwind CSS, DaisyUI
+- **Animations**: AOS (Animate On Scroll)
+- **Routing**: React Router DOM (with Private Routes)
+- **Authentication**: Firebase Authentication
+- **Notifications**: React Hot Toast
+- **Slider**: Swiper.js
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 NPM Packages
+- `firebase`
+- `react-router-dom`
+- `swiper`
+- `aos`
+- `react-hot-toast`
+- `localforage`
+- `match-sorter`
+- `react-icons`
 
-## Expanding the ESLint configuration
+## 🚀 How to Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd warm-paws
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up Environment Variables**
+   Create a `.env.local` file in the root directory and add your Firebase config:
+   ```env
+   VITE_apiKey=your_api_key
+   VITE_authDomain=your_auth_domain
+   VITE_projectId=your_project_id
+   VITE_storageBucket=your_storage_bucket
+   VITE_messagingSenderId=your_messaging_sender_id
+   VITE_appId=your_app_id
+   ```
+
+4. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+## 📄 Assignment Details
+**Category**: Assignment-09_category_rose
+**Theme**: WarmPaws – Pet Care in Winter
+
+## © Copyright
+WarmPaws Industries Ltd.
