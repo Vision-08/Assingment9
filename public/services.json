@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co/6yxhvj6/winter-dog-coat.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co/Vq05h6t/grooming.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Bed Consultation",
+    "providerName": "SnugglePaws",
+    "providerEmail": "contact@snugglepaws.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 10,
+    "description": "Expert advice on choosing the safest and coziest heated beds for your pets.",
+    "image": "https://i.ibb.co/mJN55z4/heated-bed.jpg",
+    "category": "Supplies"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Diet Plan",
+    "providerName": "VetNutrition Pro",
+    "providerEmail": "diet@vetnutrition.com",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Personalized nutrition plans to keep your pet healthy and energetic during winter.",
+    "image": "https://i.ibb.co/0j2kX1X/pet-food.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Indoor Play Session",
+    "providerName": "HappyTails Activity Center",
+    "providerEmail": "play@happytails.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Fun and safe indoor play sessions to keep your pets active when it's too cold outside.",
+    "image": "https://i.ibb.co/hK7X1X/indoor-play.jpg",
+    "category": "Activity"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Emergency Cold Care",
+    "providerName": "24/7 VetRescue",
+    "providerEmail": "help@vetrescue.com",
+    "price": 60,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Immediate care for hypothermia or frostbite symptoms.",
+    "image": "https://i.ibb.co/9hX1X1X/vet.jpg",
+    "category": "Medical"
+  }
+]
