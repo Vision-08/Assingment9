@@ -11,10 +11,10 @@ const Footer = () => {
             </nav>
             <nav>
                 <div className="grid grid-flow-col gap-4 text-2xl">
-                    <a href="#" className="hover:text-primary transition-colors"><FaFacebook /></a>
+                    <a href="https://www.facebook.com/programmingHero/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><FaFacebook /></a>
                     <a href="#" className="hover:text-primary transition-colors"><FaTwitter /></a>
-                    <a href="#" className="hover:text-primary transition-colors"><FaInstagram /></a>
-                    <a href="#" className="hover:text-primary transition-colors"><FaLinkedin /></a>
+                    <a href="https://www.instagram.com/programminghero/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><FaInstagram /></a>
+                    <a href="https://bd.linkedin.com/in/essa-zaman-4b4a75380" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><FaLinkedin /></a>
                 </div>
             </nav>
             <aside>
